@@ -37,8 +37,8 @@ AgentHive consists of several key components:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/agenthive.git
-   cd agenthive
+   git clone https://github.com/TejasP182527/AgentHive.git
+   cd AgentHive
    ```
 
 2. **Create a virtual environment:**
