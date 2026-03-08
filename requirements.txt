@@ -1,0 +1,9 @@
+fastapi==0.135.1
+pydantic==2.12.5
+redis==7.3.0
+google-generativeai
+python-dotenv
+dash
+requests==2.32.5
+httpx==0.28.1
+uvicorn[standard]
